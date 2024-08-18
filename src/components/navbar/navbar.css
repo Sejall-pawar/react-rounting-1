@@ -1,0 +1,25 @@
+.header{
+    background-color: rgb(189, 132, 243);
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+
+.header-name{
+    font-size: 25px;
+    color: white;
+    margin-left: 80px;
+}
+
+.header-links{
+    margin-left: 60%;
+}
+
+.nav-name{
+    font-size: 20px;
+    margin: 0 20px;
+    padding: 5px;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
